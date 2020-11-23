@@ -3,7 +3,7 @@ Aliax among us hack
 ****WELCOME TO ALIAX****
 Hello, and thank you for downloading my tool. 
 
-message me on discord if you have any issues: CACTUS JACK#5678
+message me on discord if you have any issues: CACTUS JACK#7398
 list of hacks include:
 
 force imposter, no kill cooldown, kill distance is always max, speed hacks, can become ghost and come back alive (even if killed or ejected)
