@@ -4,7 +4,7 @@ Aliax among us hack
 Hello, and thank you for downloading my tool. 
 IF IT DOSENT LET YOU OPEN IT, DISABLE REAL TIME PROTECTION AND WINDOWS DEFENDER
 
-message me on discord if you have any issues: CACTUS JACK#7398
+message me on discord if you have any issues: LAROI#4557
 list of hacks include:
 
 force imposter, no kill cooldown, kill distance is always max, speed hacks, can become ghost and come back alive (even if killed or ejected)
